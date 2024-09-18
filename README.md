@@ -1,4 +1,4 @@
-                    # Freelancing Website - Using PHP and MySQL
+  # Freelancing Website - Using PHP and MySQL
 
 # Introduction
 Freelancers are self-employed people who don’t work at a particular company but a lot of them work individually. In the whole employee vs entrepreneur world, freelancing is a different way to work. Consider it as a mid-way. A freelancer can work from anywhere globally, and in given times, it mainly involves working from home.
