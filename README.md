@@ -1,4 +1,4 @@
-  # Freelancing Website - Using PHP and MySQL
+<h1 font-color: red>Freelancing Website - Using PHP and MySQL</h1>
 
 # Introduction
 Freelancers are self-employed people who don’t work at a particular company but a lot of them work individually. In the whole employee vs entrepreneur world, freelancing is a different way to work. Consider it as a mid-way. A freelancer can work from anywhere globally, and in given times, it mainly involves working from home.
@@ -21,11 +21,11 @@ Best features offered by this website:
 • Intuitive page builder.
 
 # How to run the project
-Tutorial to use this as project.
+Tutorial to use the project.
 Follow the below steps:
  1. Download and Install Xampp server. Link: https://www.apachefriends.org/download.html
  2. In phpMyAdmin select import and choose fmarket.sql
- 3. copy the freelance folder and paste it in the htdocs folder.
+ 3. Copy the freelance folder and paste it in the htdocs folder.
  4. Type localhost/freelance/index.php or just localhost/freelance in your browser to see the 
     website
 
